@@ -1,5 +1,4 @@
 import Image from 'next/image'
-
 import nlwLogo from '../assets/nlw-spacetime-logo.svg'
 
 export function Hero() {
